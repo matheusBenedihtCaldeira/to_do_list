@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  margin-left: 5px;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+  color: #252323;
+  background-color: #246a73;
+}
+
+button{
+  cursor: pointer;
+}
