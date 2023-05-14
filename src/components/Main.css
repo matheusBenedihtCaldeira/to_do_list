@@ -71,3 +71,12 @@
     color: #580601;
     cursor: pointer;
 }
+
+.tarefas li span{
+  display: flex;
+  align-items: center;
+}
+
+.tarefas li:hover{
+  background: #dfd9c4;
+}
